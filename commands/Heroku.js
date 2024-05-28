@@ -51,7 +51,7 @@ france(
                   [text.split('=')[0]]: text.split('=')[1],
           },
         });
-        await repondre('*_HEROKU VAR UPDATE HO GAYI HAI AB GOLD-MD RESTART HO RAHA HAI...'_*)
+        await repondre('*_HEROKU VAR UPDATE HO GAYI HAI AB ʙᴇʟᴛᴀʜ-ᴛᴇᴄʜ-ʙᴏᴛ,, Bot will RESTART...'_*)
     }
 );
 
@@ -73,9 +73,9 @@ france(
 			let baseURI = "/apps/" + s.HEROKU_APP_NAME;
 
             let h = await heroku.get(baseURI+'/config-vars')
-let str = '*🔰 GOLD-MD HEROKU VARS 🔰*\n\n'
+let str = '*🔰 BELTAH-MD HEROKU VARS 🔰*\n\n'
 for (vr in h) {
-str+= '🦋 *'+vr+'* '+'= '+h[vr]+'\n'
+str+= '🤬 *'+vr+'* '+'= '+h[vr]+'\n'
 }
  repondre(str)
 
