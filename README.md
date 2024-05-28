@@ -1,18 +1,18 @@
-# *_( =========> • GOLD MD • <========= )_*
+# *_( = • ʙᴇʟᴛᴀʜ-ᴛᴇᴄʜ-ʙᴏᴛ • = )_*
 
 <p align="center">
-  <a href="https://github.com/D4X-UMAR">
-    <img alt="GOLD-MD" height="400" src="https://i.postimg.cc/1XQq5DzP/pictures-white949544-GOjsnnsnznznzbzbbzbz7777-GOLDLD-PIC.png">
+  <a href="https://github.com/Beltahmd/bestAI-bot">
+    <img alt="BELTAH-MD" height="400" src="https://telegra.ph/file/dcce2ddee6cc7597c859a.jpg">
   </a>
 </p>
 
 ***
 
-# *_GET • [SESSION ID](https://bot-by-umar-d2b1b3360401.herokuapp.com) • FOR GOLD-MD_*
+# *_GET • [SESSION ID](https://bot-by-umar-d2b1b3360401.herokuapp.com) • FOR BELTAH-MD_*
 
 ***
 
-# *_NOW • [DEPLOY](https://dashboard.heroku.com/new?button-url=https://github.com/D4X-UMAR/GOLD-MD&template=https://github.com/D4X-UMAR/GOLD-MD) • GOLD-MD ON HEROKU_*
+# *_NOW • [DEPLOY](https://dashboard.heroku.com/new?button-url=https://github.com/Beltahmd/bestAI-bot&template=https://github.com/Beltahmd/bestAI-bot) • BELTAH-MD ON HEROKU_*
 
 ***
 
