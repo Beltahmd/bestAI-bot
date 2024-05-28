@@ -1,4 +1,4 @@
-# *_( = • ʙᴇʟᴛᴀʜ-ᴛᴇᴄʜ-ʙᴏᴛ • = )_*
+# *_• ʙᴇʟᴛᴀʜ-ᴛᴇᴄʜ-ʙᴏᴛ •_*
 
 <p align="center">
   <a href="https://github.com/Beltahmd/bestAI-bot">
@@ -16,11 +16,11 @@
 
 ***
 
-# *_FOLLOW • [WHATSAPP CHANNEL](https://whatsapp.com/channel/0029VaZtuAxLI8YeUWRXBg3Y) •_*
+# *_FOLLOW Our• [WHATSAPP CHANNEL](https://whatsapp.com/channel/0029VaRHDBKKmCPKp9B2uH2F) •_*
 
 ***
 
 # *_DEVELOPER_*
-<a href="https://github.com/D4X-UMAR"><img src="https://i.ibb.co/wspzc9t/IMG-20240328-WA0000.jpg" width="250" height="250" alt="UMAR"/></a>
-# _=> • [UMAR](https://github.com/D4X-UMAR) • <=_
+<a href="https://github.com/Beltahmd/bestAI-bot"><img src="https://telegra.ph/file/dcce2ddee6cc7597c859a.jpg" width="250" height="250" alt="UMAR"/></a>
+# _=> • [𝐎𝐖𝐍𝐄𝐑 : 𝐁𝐞𝐥𝐭𝐚𝐡 𝐊𝐄](https://github.com/Beltahmd) • <=_
 
