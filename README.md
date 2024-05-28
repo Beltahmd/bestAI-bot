@@ -20,7 +20,7 @@
 
 ***
 
-# *_DEVELOPER_*
+# *_𝐎𝐖𝐍𝐄𝐑_*
 <a href="https://github.com/Beltahmd/bestAI-bot"><img src="https://telegra.ph/file/dcce2ddee6cc7597c859a.jpg" width="250" height="250" alt="UMAR"/></a>
-# _=> • [𝐎𝐖𝐍𝐄𝐑 : 𝐁𝐞𝐥𝐭𝐚𝐡 𝐊𝐄](https://github.com/Beltahmd) • <=_
+# _=> • [𝐁𝐞𝐥𝐭𝐚𝐡 𝐊𝐄](https://github.com/Beltahmd) • <=_
 
