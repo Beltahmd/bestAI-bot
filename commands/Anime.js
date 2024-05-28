@@ -70,7 +70,7 @@ france({
   const google = require('google-it');
   try {
     const results = await google({ query: arg.join(" ") });
-    let msg = `GOLD MD GOOGLE SEARCHED FOR : ${arg}\n\n`;
+    let msg = `BELTAH MD GOOGLE SEARCHED FOR : ${arg}\n\n`;
 
     for (let result of results) {
       msg += `🔰 TITLE : ${result.title}\n`;
